@@ -17,7 +17,7 @@ seo:
         on Tech and Entrepreneurship!
       keyName: property
     - name: 'og:image'
-      value: images/home.jpg
+      value: /images/logo.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
