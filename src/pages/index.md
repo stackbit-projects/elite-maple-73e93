@@ -31,5 +31,11 @@ seo:
     - name: 'twitter:image'
       value: /images/logo.png
       relativeUrl: true
+    - name: 'og:description'
+      value: >-
+        Welcome to Harsh Bajpai's Blog.  This is a small repository of articles
+        on Tech and Entrepreneurship!
+      keyName: property
+      relativeUrl: false
 template: home
 ---
