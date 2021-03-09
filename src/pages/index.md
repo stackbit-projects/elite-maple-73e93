@@ -4,7 +4,9 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: Harsh Bajpai's Blog
-  description: The preview of the Fjord theme
+  description: >-
+    Welcome to Harsh's Blog.  This is a small repository of articles on Tech and
+    Entrepreneurship.
   extra:
     - name: 'og:type'
       value: website
