@@ -12,9 +12,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: >-
-        Welcome to Harsh Bajpai's Blog.  This is a small repository of articles
-        on Tech and Entrepreneurship!
+      value: Welcome to Harsh Bajpai's Blog.
       keyName: property
     - name: 'og:image'
       value: /images/logo.png
