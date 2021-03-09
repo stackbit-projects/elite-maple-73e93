@@ -23,7 +23,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fjord Theme
+      value: >-
+        Welcome to Harsh Bajpai's Blog.  This is a small repository of articles
+        on Tech and Entrepreneurship!
     - name: 'twitter:description'
       value: >-
         Welcome to Harsh Bajpai's Blog.  This is a small repository of articles
