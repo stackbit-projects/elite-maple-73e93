@@ -25,7 +25,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Fjord Theme
     - name: 'twitter:description'
-      value: The preview of the Fjord theme
+      value: >-
+        Welcome to Harsh Bajpai's Blog.  This is a small repository of articles
+        on Tech and Entrepreneurship!
     - name: 'twitter:image'
       value: /images/logo.png
       relativeUrl: true
