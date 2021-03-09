@@ -5,8 +5,8 @@ more_link_text: Keep reading
 seo:
   title: Harsh Bajpai's Blog
   description: >-
-    Welcome to Harsh's Blog.  This is a small repository of articles on Tech and
-    Entrepreneurship.
+    Welcome to Harsh Bajpai's Blog.  This is a small repository of articles on
+    Tech and Entrepreneurship!
   extra:
     - name: 'og:type'
       value: website
