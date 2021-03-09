@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Fjord theme
     - name: 'twitter:image'
-      value: images/home.jpg
+      value: /images/logo.png
       relativeUrl: true
 template: home
 ---
